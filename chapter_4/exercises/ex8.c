@@ -21,7 +21,8 @@ int main(void){
     check = (3 * f_sum) + s_sum;
 
     printf("Check digit: %d\n", 9 - ((check-1) % 10) );
-    printf("Check digit: %d\n", 10 - ((check) % 10) );// why does this not work?
+    
+    printf("Check digit: %d\n", (10 - (check % 10)) % 10 );// would this work?
     // On the far fetch case that the total value is 0, the check digit would yield a 10, which is invalid?
 
     return 0;
