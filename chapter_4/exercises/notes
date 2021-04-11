@@ -1,0 +1,5 @@
+## v = e,  evaluates expression e and copies value to v.
+## if they don't have the same type, e is converted into v type value and copied
+## lvalues.
+## be careful of undefined behavior ( j = i * ++i) for example
+## pow function for  exponent
