@@ -5,7 +5,7 @@ Contains solutions for the book C Programming, A modern Approach
 Current progress:
 🔳🔳🔳🔳🔳⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
-Chapters 1-4 completed.
+Chapters 1-5 completed.
 
 # Chapter 2
 ## Reviewed by:
